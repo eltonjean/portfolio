@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @eltonjean
-- </> I do code for living
-- 💞️ I’m attempt to do my portfolio here. Did you like it?
+
+- </> Let's code!
 <!--
+- 👋 Hi, I’m @eltonjean
+- 💞️ I do code for living
 - 👀 I’m interested 
 - 🌱 I’m currently learning ...
 - 📫 Send emails at
