@@ -1,15 +1,24 @@
+# README
 
-- </> Let's code!
-<!--
-- 👋 Hi, I’m @eltonjean
-- 💞️ I do code for living
-- 👀 I’m interested 
-- 🌱 I’m currently learning ...
-- 📫 Send emails at
-- 💞️ I’m looking to collaborate on systems development
---->
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-<!---
-eltonjean/eltonjean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
